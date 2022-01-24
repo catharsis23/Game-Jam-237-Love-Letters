@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: ee63e882be421924eb9a174eec3327eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8707465125179087737
+    second: Mailman_0
+  - first:
+      213: 4769021318869981742
+    second: Mailman_1
+  - first:
+      213: 9140352310598744870
+    second: Mailman_2
+  - first:
+      213: -8780673401311761170
+    second: Mailman_3
+  - first:
+      213: -2395212773893860931
+    second: Mailman_4
+  - first:
+      213: -2531538291730862289
+    second: Mailman_5
+  - first:
+      213: 7477097182337406973
+    second: Mailman_6
+  - first:
+      213: 8855266388779145367
+    second: Mailman_7
+  - first:
+      213: 671222313254467126
+    second: Mailman_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mailman_0
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1342
+        width: 802
+        height: 667
+      alignment: 9
+      pivot: {x: 0.4820683, y: 0.052605715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784299f4a9ed82780800000000000000
+      internalID: -8707465125179087737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_1
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 983
+        width: 519
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a92854f97fe2240800000000000000
+      internalID: 4769021318869981742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 553
+        width: 610
+        height: 754
+      alignment: 9
+      pivot: {x: 0.8064867, y: 0.4189382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb823bffd09de70800000000000000
+      internalID: 9140352310598744870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_3
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 622
+        width: 50
+        height: 365
+      alignment: 9
+      pivot: {x: 0.3561865, y: 0.933409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec67124018c42680800000000000000
+      internalID: -8780673401311761170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_4
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 454
+        width: 810
+        height: 828
+      alignment: 9
+      pivot: {x: 0.4955613, y: 0.25249574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1149a2cae72ced0800000000000000
+      internalID: -2395212773893860931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_5
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 591
+        width: 98
+        height: 431
+      alignment: 9
+      pivot: {x: 0.16981724, y: 0.94211644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f251a165b2edcd0800000000000000
+      internalID: -2531538291730862289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_6
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 189
+        width: 287
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7710042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df79b40a54cf3c760800000000000000
+      internalID: 7477097182337406973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_7
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 149
+        width: 40
+        height: 224
+      alignment: 9
+      pivot: {x: 0.32023317, y: 0.93336475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79813a60dd934ea70800000000000000
+      internalID: 8855266388779145367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mailman_8
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 157
+        width: 55
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5000022, y: 0.92464465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63639da3329a05900800000000000000
+      internalID: 671222313254467126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
